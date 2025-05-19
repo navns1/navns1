@@ -4,4 +4,4 @@ I'm Navneeth(Nav), an economics graduate from Sussex with a passion for quantita
 
 I’m currently working on completing projects specific to options pricing/trading bots.
 
-Reach out to me on: [navneethsuresh12345@gmail.com]
+Reach out to me on: [navneethsuresh12345@gmail.com] & [https://www.linkedin.com/in/navneethsuresh/]
